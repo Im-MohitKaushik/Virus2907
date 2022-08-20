@@ -1,56 +1,140 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+
+<h1 align="center">Hi , I'm Mohit Kaushik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/Virus2907/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;DSnALGO%20|%20javascript%20|%20JAVA%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<h4 align="center">Optimizing problems by thinking out of the box.A learning enthusiast grasping and observing patterns in day-to-day activities. Skilled in technologies and frameworks like Html, Javascript,ES6,Css, Java, Spring, MySQL, Hibernate, ES, GraphQL, JDBC,DAO etc.
+Travelling and Bike riding is favorite pastime.
+
+Check out my life experiences at : https://www.instagram.com/professor__ankit/</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Virus2907&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Virus2907&theme=algolia" alt="Virus2907"  /></p>
+
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://spring.io/projects/spring-boot">
+    <img alt="SPRING-BOOT" src="https://img.shields.io/badge/SPRING-BOOT-%23777BB4.svg?logo=springboot&logoColor=white"/>
+  </a>
+   &emsp;
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JDBC" src="https://img.shields.io/badge/JDBC%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+    &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23007396.svg?logo=java&logoColor=white">
+  </a>
 </p>
 
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+</p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Virus2907.Virus2907)
-[![Github](https://img.shields.io/github/followers/Virus2907?label=Follow&style=social)](https://github.com/Virus2907)
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+ </p>
+ 
+ ### 👉 Software & Tools
+ 
+<p>
+ 
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+   <a href="#"><img alt="STS" src="https://img.shields.io/badge/STS%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="PostMan API" src="https://img.shields.io/badge/PostMan%20API%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+</p>
 
-<div size='20px'> Hi! My name is Mohit Kaushik. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<br/>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working on  Java Food delivery application
-  
-- 🌱 I’m currently learning Java Backend from Masai School-Bangalore.
-  
-- 💬 Ask me about Sql, Java, Html, CSS, Java, Spring, Hibernate, AWS, JavaScript
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Virus2907?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Virus2907?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Virus2907?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Virus2907?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src
-='https://img.icons8.com/dusk/344/java-coffee-cup-logo.png'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+## 📊 Github Stats (Expand to View) 
 
 
-<br>
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Virus2907/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Virus2907&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virus2907&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Virus2907" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 
 
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Virus2907"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitsyadav&custom_title=Mohit%20Kaushik's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
-Last Edited on: 04/09/2021
+</details>
+
+<br/>
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:exam.portal.asy@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/ankitsyadav"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ankit-singh-yadav-a0883022b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/exam.portal.asy/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/professor__ankit/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	
+</p>
+
+<hr/>
+
+* Credit: [Mohit Kaushik](https://github.com/Virus2907)
+* Last Edited on: 04/06/2022
+
+
+
+
+
+
+
+
