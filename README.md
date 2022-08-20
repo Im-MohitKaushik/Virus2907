@@ -7,7 +7,7 @@
 <h4 align="center">Optimizing problems by thinking out of the box.A learning enthusiast grasping and observing patterns in day-to-day activities. Skilled in technologies and frameworks like Html, Javascript,ES6,Css, Java, Spring, MySQL, Hibernate, ES, GraphQL, JDBC,DAO etc.
 Travelling and Bike riding is favorite pastime.
 
-Check out my life experiences at : https://www.instagram.com/professor__ankit/</h4>
+Check out my life experiences at : https://www.instagram.com/_mr__virus/</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Virus2907&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
